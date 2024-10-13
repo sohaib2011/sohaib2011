@@ -1,9 +1,13 @@
-## ~$ echo "Hi, I'm Sohaib Kaiser Latif!"
+## ~$ echo "Hi 👋, I'm Sohaib!"
 `Cybersecurity Student | IT Operations Consultant | Lifelong Learner`
 
 
 ## ~$ cat /etc/sohaib_info
-`Cybersecurity Student:` In the final year of my cybersecurity degree, focusing on areas like network security, ethical hacking, and security protocols.
+`Cybersecurity Student:` `Cybersecurity Student:` In the final year of my cybersecurity degree, I have built a strong foundation in both offensive and defensive security, and am currently developing practical skills to secure and protect digital systems.
+
+
+
+
 
 `IT Operations Consultant:` Responsible for monitoring IT infrastructure and managing incidents to ensure system stability while supporting operational issues across multiple locations.
 
