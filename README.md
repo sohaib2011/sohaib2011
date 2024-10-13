@@ -1,4 +1,4 @@
-## ~$ echo "Hi 👋, I'm Sohaib!"
+## ~$ echo "Hi there👋, I'm Sohaib!"
 `Cybersecurity Student | IT Operations Consultant | Lifelong Learner`
 
 
