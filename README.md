@@ -3,7 +3,8 @@
 
 
 ## ~$ cat /etc/sohaib_info
-`Cybersecurity Student:` `Cybersecurity Student:` In the final year of my cybersecurity degree, I have built a strong foundation in both offensive and defensive security, and am currently developing practical skills to secure and protect digital systems.
+`Cybersecurity Student:` `Cybersecurity Student:` In the final year of my cybersecurity degree; I have built a foundation in both offensive- and defensive security, and am currently learning practical skills to prepare for securing digital systems.
+
 
 
 
