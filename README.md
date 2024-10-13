@@ -16,6 +16,11 @@ A white-box test of the web application **Boris Lockpicks**, with access to the 
 - **Test Type:** White-box (with gray-box aspects as the source code was available but not significantly useful)
 - **Outcome:** Critical risk vulnerabilities identified.
 
+### [SIEM Home Lab](https://github.com/sohaib2011/SIEM-Home-Lab)
+A practical lab setup to demonstrate the use of SIEM tools for security monitoring and log analysis using the Elastic Stack.
+- **Tools Used:** Elasticsearch, Logstash, Kibana, Beats
+- **Outcome:** Monitoring and analyzing security events with a custom SIEM setup.
+
 
 
 
