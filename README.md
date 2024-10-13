@@ -38,7 +38,3 @@ HTB Starting Point & Machines
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-%2300549E?style=for-the-badge&logo=zap)
 ![VMware](https://img.shields.io/badge/VMware-%23607078?style=for-the-badge&logo=vmware)
 
-
-
-
-## 🎓 Certifications
