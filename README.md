@@ -11,7 +11,14 @@
 
 
 ## 🚀 Projects
-In progress...
+
+### [Penetration Testing (Simulated Environment)](https://github.com/sohaib2011/pentest-schoolVM)
+A white-box test of the web application **Boris Lockpicks**, with access to the source code to identify vulnerabilities and enhance security.
+- **Test Type:** White-box (with gray-box aspects as the source code was available but not significantly useful)
+- **Outcome:** Critical risk vulnerabilities identified.
+
+
+
 
 ## 🌱 Currently Learning
 HTB Starting Point & Machines
