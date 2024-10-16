@@ -27,19 +27,4 @@ A practical lab setup to demonstrate the use of SIEM tools for security monitori
 ## 🌱 Currently Learning
 HTB Starting Point & Machines
 
-## 🖥️ My Cybersecurity Toolkit
-
-### Operating Systems
-![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux)
-
-### Tools
-![Wireshark](https://img.shields.io/badge/wireshark-blue?style=for-the-badge&logo=Wireshark)
-![Burp Suite](https://img.shields.io/badge/Burpsuite-%23FF6633?style=for-the-badge&logo=burp%20suite)
-![Splunk](https://img.shields.io/badge/Splunk-%231DB954?style=for-the-badge&logo=splunk)
-![MySQL](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql)
-![Datadog](https://img.shields.io/badge/Datadog-%23632CA6?style=for-the-badge&logo=Datadog)
-![AWS](https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=amazonwebservices)
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-%2300549E?style=for-the-badge&logo=zap)
-![VMware](https://img.shields.io/badge/VMware-%23607078?style=for-the-badge&logo=vmware)
 
