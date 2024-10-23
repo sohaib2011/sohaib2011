@@ -27,7 +27,6 @@ A white-box test of the web application **Boris Lockpicks**, with access to the 
 
 
 ## 🌱 Currently Learning
-LetsDefend (primary focus)
-HTB Starting Point + Machines (if spare time)
+HTB Starting Point + Machines
 
 
