@@ -17,7 +17,7 @@ Successfully set up and configured Elastic Stack SIEM in a home lab environment
 
 ### [ESP32 Based Webserver for Measurement of Temperature & Humidity](https://github.com/sohaib2011/DHTT11_Project)
 Configured an ESP32-based webserver to monitor temperature and humidity
-- **Components Required:** Breadboard, USB Cable, ESP32 Feather Board, DHT11 Sensor, Jumper Wires
+- **Components Required:** Breadboard, ESP32 Feather, DHT11 Sensor, Jumper Wires
 
 
 ### [Penetration Testing (Simulated Environment)](https://github.com/sohaib2011/pentest-schoolVM)
