@@ -19,13 +19,13 @@ Successfully set up and configured Elastic Stack SIEM in a home lab environment
 Configured an ESP32-based webserver to monitor temperature and humidity
 - **Components Required:** Breadboard, ESP32 Feather, DHT11 Sensor, Jumper Wires
 
-
+<!-- 
 ### [Penetration Testing (Simulated Environment)](https://github.com/sohaib2011/pentest-schoolVM)
 A white-box test of the web application **Boris Lockpicks**, with access to the source code to identify vulnerabilities and enhance security.
 - **Test Type:** White-box (in reality viewed as gray-box due to source code was available but not significantly useful to me)
 - **Result of project:** Critical risk vulnerabilities identified.
 - **NB!** Repo is not finalized, currently working on it and will eventually publish!
-
+-->
 
 
 
