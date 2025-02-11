@@ -1,8 +1,8 @@
-## ~$ echo "Hi there👋, I'm Sohaib!"
+## Hi there👋, I'm Sohaib"
 `Cybersecurity Student | IT Operations Consultant | Lifelong Learner`
 
 
-## ~$ cat /etc/sohaib_info
+## ~$ whoami
 `Cybersecurity Student:` In the final year of my cybersecurity degree; I have built a foundation in both offensive- and defensive security, and am currently learning practical skills to prepare for securing digital systems.
 
 `IT Operations Consultant:` Responsible for monitoring IT infrastructure and managing incidents to ensure system stability while supporting operational issues across multiple locations.
@@ -19,15 +19,7 @@ Successfully set up and configured Elastic Stack SIEM in a home lab environment
 Configured an ESP32-based webserver to monitor temperature and humidity
 - **Components Required:** Breadboard, ESP32 Feather, DHT11 Sensor, Jumper Wires
 
-### Injured Android Mobile Penetration Test (https://github.com/sohaib2011/injuredandroid-testing)
-
-<!-- 
-### [Penetration Testing (Simulated Environment)](https://github.com/sohaib2011/pentest-schoolVM)
-A white-box test of the web application **Boris Lockpicks**, with access to the source code to identify vulnerabilities and enhance security.
-- **Test Type:** White-box (in reality viewed as gray-box due to source code was available but not significantly useful to me)
-- **Result of project:** Critical risk vulnerabilities identified.
-- **NB!** Repo is not finalized, currently working on it and will eventually publish!
--->
+### [Injured Android Mobile Penetration Test](https://github.com/sohaib2011/injuredandroid-testing)
 
 
 
