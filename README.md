@@ -23,7 +23,7 @@ Currently in work...
 
 
 
-## 🌱 Currently Learning
+## Currently Learning
 TCM Security: Mobile Application Penetration Testing Course
 
 
