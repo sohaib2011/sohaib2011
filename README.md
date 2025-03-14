@@ -26,6 +26,6 @@ Solving CTF-like challenges in Injured Android to improve my mobile penetration 
 ## Currently Learning
 - TCM Security: Mobile Application Penetration Testing Course
 
-- Android Injured Mobile Penetration Testing
+- Android Injured App: Mobile Penetration Testing
 
 
