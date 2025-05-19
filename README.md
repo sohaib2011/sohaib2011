@@ -9,7 +9,7 @@
  `Lifelong Learner:` Eager to develop my skills in cybersecurity and continuously improve my knowledge, with the goal of becoming proficient in the field of security.
 
 ## 🚀 Projects
-### [Virtual Multi-Zone Enterprise Network Lab]((https://github.com/sohaib2011/error)
+### [Virtual Multi-Zone Enterprise Network Lab](https://github.com/sohaib2011/error)
 Currently working on it, project not ready for launch
 - **Tools Used:** VMware Workstation Pro, pfSense, Ubuntu (server), Kali Linux
 - **Topics Covered:** Network segmentation, DHCP, firewall rules, blocked traffic logging, basic attack simulation
