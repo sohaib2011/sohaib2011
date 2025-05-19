@@ -6,7 +6,7 @@
  
  `IT Operations Consultant:` Responsible for monitoring IT infrastructure and managing incidents to ensure system stability while supporting operational issues across multiple locations.
  
- `Lifelong Learner:` Eager to develop my skills in cybersecurity and continuously improve my knowledge, with the goal of becoming proficient in the field of security.
+ `Lifelong Learner:` Eager to develop my skills in cybersecurity and continuously improve my knowledge, with the goal of becoming proficient in the field of security and network communication.
 
 ## 🚀 Projects
 ### [Virtual Multi-Zone Enterprise Network Lab](https://github.com/sohaib2011/error)
