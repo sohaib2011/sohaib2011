@@ -10,7 +10,7 @@
 
 ## 🚀 Projects
 ### [Virtual Multi-Zone Enterprise Network Lab](https://github.com/sohaib2011/error)
-Currently working on it, project not ready for launch
+Currently in a prototyping, however heres a sneak peek:
 - **Tools Used:** VMware Workstation Pro, pfSense, Ubuntu, Kali Linux
 - **Topics Covered:** Network segmentation, DHCP, firewall rules, blocked traffic logging, basic attack simulation
 <!-- Built a functional virtual network with a routed firewall (pfSense), segmented zones (LAN, DMZ, WAN), and simulated attack detection through firewall logging and analysis. -->
