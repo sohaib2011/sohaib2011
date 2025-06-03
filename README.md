@@ -12,8 +12,8 @@
 ### [Virtual Multi-Zone Enterprise Network Lab](https://github.com/sohaib2011/network-secure-lab)
 Currently in a prototyping, however heres a sneak peek:
 - **Tools Used:** VMware Workstation Pro, pfSense, Ubuntu, Kali Linux
-- **Topics Covered:** Network segmentation, DHCP, firewall rules, blocked traffic logging, basic attack simulation
-<!-- Built a functional virtual network with a routed firewall (pfSense), segmented zones (LAN, DMZ, WAN), and simulated attack detection through firewall logging and analysis. -->
+- **Topics Covered:** Network segmentation, DHCP, firewall rules, static IP setup (netplan), DMZ isolation, traffic logging, basic attack simulation (soon)
+<!-- Built a functional virtual network with a routed firewall (pfSense), segmented zones (LAN, DMZ, WAN), and simulated attack detection through firewall logging and analysis. basic attack simulation-->
 
 ### [ESP32 Based Webserver for Measurement of Temperature & Humidity](https://github.com/sohaib2011/DHTT11_Project)
 Configured an ESP32-based webserver to monitor temperature and humidity
