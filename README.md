@@ -15,6 +15,16 @@ Currently in a prototyping, however heres a sneak peek:
 - **Topics Covered:** Network segmentation, DHCP, firewall rules, static IP setup (netplan), DMZ isolation, traffic logging, basic attack simulation (soon)
 <!-- Built a functional virtual network with a routed firewall (pfSense), segmented zones (LAN, DMZ, WAN), and simulated attack detection through firewall logging and analysis. basic attack simulation-->
 
+### [Threat Detection Lab (Falco & Suricata)](https://github.com/sohaib2011/threat-detection-lab)
+Built a detection lab focusing on both host-based and network-based monitoring
+- **Tools Used:** Falco (HIDS) & Suricata (NIDS), Kali Linux
+- **Topics Covered:** Custom rule configuration, process monitoring, network traffic inspection
+
+### [Red vs Blue Detection Lab](https://github.com/sohaib2011/redblue-detection-lab)
+Simulated a real-world attack scenario to understand both offensive and defensive perspectives. Currently in a prototyping, however heres a sneak peek:
+- **Tools Used:** Nmap, Metasploit, Meterpreter, Netcat, LinPEAS, ELK Stack (soon) 
+- **Topics Covered:** Reconnaissance, exploitation, privilege escalation, reverse shells, enumeration, log analysis, detection
+
 ### [ESP32 Based Webserver for Measurement of Temperature & Humidity](https://github.com/sohaib2011/DHTT11_Project)
 Configured an ESP32-based webserver to monitor temperature and humidity
 - **Components Required:** Breadboard, ESP32 Feather, DHT11 Sensor, Jumper Wires
