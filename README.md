@@ -2,11 +2,15 @@
 
 
  ## ~$ whoami
- `Cybersecurity Student:` In the final year of my cybersecurity degree; I have built a foundation in both offensive- and defensive security, and am currently learning practical skills to prepare for securing digital systems.
+ `Cybersecurity Student:` Master's student with a clear passion for blue team operations. Im especially interested in network and defensive security, where i have a strong drive to understand how systems and attacks work, and how everything connects at a deeper level 
  
- `IT Operations Consultant:` Responsible for monitoring IT infrastructure and managing incidents to ensure system stability while supporting operational issues across multiple locations.
+ `Why Security?` What drives me most is the responsibility behind it. Being part of protecting systems, detecting suspicious acticity and protecting critical assets and information
  
- `Lifelong Learner:` Eager to develop my skills in cybersecurity and continuously improve my knowledge, with the goal of becoming proficient in the field of security and network communication.
+ `How i am?` Im curious, consistent and like to understand things properly. If something doesnt make sense, ill keep working on it until it does. I’m social and enjoy being around people. I like having meaningful discussions and exchanging ideas, and I learn best by testing, making mistakes, and improving.
+
+`Hobbies`: Solving CTF-challenges (HTB, KC7 etc) and building hands on labs. Outside of cybersecurity, I enjoy spending my time in the gym or playing padel with friends.
+
+ 
 
 ## 🚀 Projects
 ### [Virtual Multi-Zone Enterprise Network Lab](https://github.com/sohaib2011/network-secure-lab)
