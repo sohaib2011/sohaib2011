@@ -8,7 +8,7 @@
  
  `How i am?` Im curious, consistent and like to understand things properly. If something doesnt make sense, ill keep working on it until it does. I’m social and enjoy being around people. I like having meaningful discussions and exchanging ideas, and I learn best by testing, making mistakes, and improving.
 
-`Hobbies`: Solving CTF-challenges (HTB, KC7 etc) and building hands on labs. Outside of cybersecurity, I enjoy spending my time in the gym or playing padel with friends.
+`Hobbies`: Solving CTF-challenges (HTB, KC7 etc) and building hands on labs. Outside of cybersecurity, I enjoy spending my time in the gym or playing padel with friends. I also like to read books about personal development when i get the chance
 
  
 
