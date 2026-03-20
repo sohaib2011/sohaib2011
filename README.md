@@ -42,3 +42,5 @@ Successfully set up and configured Elastic Stack SIEM in a home lab environment
 - **Tools Used:** VMware, Kali Linux, Elastic Cloud Console
 - **Result of project:** Successfully set up a custom SIEM solution
 
+## Skills
+
