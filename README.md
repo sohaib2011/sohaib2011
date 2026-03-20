@@ -49,7 +49,7 @@ Successfully set up and configured Elastic Stack SIEM in a home lab environment
 
   <img src="https://cdn.simpleicons.org/wireshark" height="40"/>
   <img src="https://cdn.simpleicons.org/datadog/632CA6" height="40"/>
-  <img src="https://cdn.simpleicons.org/splunk" height="40"/>
+<img src="https://cdn.simpleicons.org/splunk/FFFFFF" height="40"/>
   <img src="https://cdn.simpleicons.org/elastic" height="40"/>
 </p>
 
