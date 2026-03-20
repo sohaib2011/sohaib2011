@@ -44,3 +44,22 @@ Successfully set up and configured Elastic Stack SIEM in a home lab environment
 
 ## Skills
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,aws,docker" height="40"/>
+
+  <img src="https://cdn.simpleicons.org/wireshark" height="40"/>
+  <img src="https://cdn.simpleicons.org/datadog/632CA6" height="40"/>
+  <img src="https://cdn.simpleicons.org/splunk" height="40"/>
+  <img src="https://cdn.simpleicons.org/elastic" height="40"/>
+</p>
+
+Linux • AWS • Wireshark • Microsoft Sentinel • Datadog • Splunk • Elastic Stack • pfSense • Snort
+
+---
+
+### Programmering
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,javascript,bash,mysql,html,css" height="40"/>
+</p>
+
+Python • JavaScript • Shell • PowerShell • MySQL • HTML • CSS
