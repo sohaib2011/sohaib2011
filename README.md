@@ -1,4 +1,4 @@
-## Hi there👋, I'm Sohaib"
+## Hi there👋, I'm Sohaib
 
 
  ## ~$ whoami
