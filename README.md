@@ -1,7 +1,5 @@
 ## Hi there👋, I'm Sohaib
 
-
- ## ~$ whoami
  `Cybersecurity Student:` Master's student with a clear passion for blue team operations. Im especially interested in network and defensive security, where i have a strong drive to understand how systems and attacks work, and how everything connects at a deeper level 
  
  `Why Security?` What drives me most is the responsibility behind it. Being part of protecting systems, detecting suspicious acticity and protecting critical assets and information
